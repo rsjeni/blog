@@ -1,9 +1,9 @@
 ---
-title : "A Razia Sultana Jeni Blog"
+title : "Razia Sultana Jeni"
 # full screen navigation
 first_name : "Razia Sultana"
 last_name : "JENI"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+bg_image : "images/backgrounds/jeni.jpg"
 # animated text loop
 occupations:
 - "Writer"
@@ -12,9 +12,10 @@ occupations:
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
+- "images/slider/slider-1.jpeg"
+- "images/slider/slider-2.jpeg"
+- "images/slider/slider-3.jpeg"
+- "images/slider/slider-3.jpeg"
 
 # button
 button:
