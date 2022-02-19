@@ -3,7 +3,7 @@ baseURL = "https://rsjeni.github.io/blog/"
 title = "Razia Sultana Jeni"
 theme = "somrat"
 # post pagination
-paginate = "6"
+paginate = "15"
 # post excerpt
 summaryLength = "10"
 # disable language
@@ -68,7 +68,7 @@ logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
 description = "This is meta description"
-author = "somrat"
+author = "Razia Sultana Jeni"
 
 # Preloader
 [params.preloader]
