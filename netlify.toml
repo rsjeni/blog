@@ -4,4 +4,4 @@
   
 [build.environment]
   HUGO_VERSION = "v0.92.1+extended darwin/amd64"
-  HUGO_BASEURL = "/"
+  HUGO_BASEURL = "https://rsjeni.github.io/blog/"
