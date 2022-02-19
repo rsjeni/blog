@@ -3,5 +3,5 @@
   command = "hugo --gc --minify"
   
 [build.environment]
-  HUGO_VERSION = "0.70.0"
+  HUGO_VERSION = "v0.92.1+extended darwin/amd64"
   HUGO_BASEURL = "/"
